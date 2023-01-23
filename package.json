@@ -1,0 +1,18 @@
+{
+  "name": "assingmentis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rishav",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "json2csv": "^5.0.7"
+  }
+}
